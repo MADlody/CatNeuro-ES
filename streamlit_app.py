@@ -1,6 +1,6 @@
 import streamlit as st
 
-st.title("🎈 My new app")
+st.title("🎈 CAT NEURO ES")
 st.write(
     "Trying my git push."
 )
